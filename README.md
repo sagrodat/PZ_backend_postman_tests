@@ -6,7 +6,7 @@ https://www.postman.com/downloads/
 Postman supports importing and exporting environments and collections through .JSON files.
 After logging into the desktop application drag and drop the .JSON files into corresponding tabs of your workspace.
 
-**PZ test.postman_collection.json** into the **Collections** tab.
+**PZ Collection.postman_collection.json** into the **Collections** tab.
 This file contains a structure of requests to the API that ensure comprehensive testing of the application. To test the application run certain folders or singular requests.
 Names of requests were chosen to be as self-explanatory as possible.
 
